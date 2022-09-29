@@ -1,2 +1,2 @@
 #git practice
-just want to practice git
+just want to practice git!
